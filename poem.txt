@@ -1,6 +1,6 @@
 # About Crows, by John Ciardi
 The old crow is slow
 The young crow is not.
-Of what the young crow does not know
-This is a 5th line of the poem
-Adding a 6th line
+Of what the young crow does not know.
+Is still the young crow's master.
+>>>>>>> e930062167d52789aabf8886df677350ea30b92b
